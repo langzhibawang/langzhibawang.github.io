@@ -1,44 +1,31 @@
-# The Site Configuration
-
-# Import the theme
 theme: jekyll-theme-chirpy
 
-# The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm
-# If it has the same name as one of the files in folder `_data/locales`, the layout language will also be changed,
-# otherwise, the layout language will use the default value of 'en'.
 lang: zh-CN
 timezone: Asia/Shanghai
-
-# Change to your timezone › https://zones.arilyn.cc
-
-# jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
-# ↓ --------------------------
 
 title: 我的博客
 tagline: 记录生活 · 分享思考
 description: >-
   欢迎来到我的个人空间。这里记录技术笔记、生活随笔和一些有趣的想法。
 
-# 重要：填写你的网站地址
 url: "https://ly168866.github.io"
 
 github:
   username: ly168866
+
 social:
   name: ly168866
-  email: ly930825@hotmail.com   # ← 可以改成你的邮箱
+  email: your@email.com
   links:
     - https://github.com/ly168866
-    # 可以继续在这里添加其他链接，例如知乎、B站等
 
-# Site Verification Settings
 webmaster_verifications:
-  google: # fill in your Google verification code
-  bing: # fill in your Bing verification code
-  alexa: # fill in your Alexa verification code
-  yandex: # fill in your Yandex verification code
-  baidu: # fill in your Baidu verification code
-  facebook: # fill in your Facebook verification code
+  google: 
+  bing: 
+  alexa: 
+  yandex: 
+  baidu: 
+  facebook:
 
 # ↑ --------------------------
 # The end of `jekyll-seo-tag` settings
